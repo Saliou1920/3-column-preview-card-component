@@ -32,7 +32,7 @@ Users should be able to:
 ![](images/solutionMobile.png)
 ### Links
 
-- Live Site URL: [Here](https://saliou1920.github.io/Card-Component-Challenge/)
+- Live Site URL: [Here]( https://saliou1920.github.io/3-column-preview-card-component/)
 
 
 ### Built with
