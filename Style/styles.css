@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+.container {
+    display: grid;
+    gap: 0;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+    margin: 20% auto;
+    width: 70%;
+}
+
+.card-1 {
+    background-color: hsl(31, 77%, 52%);
+    text-align: justify;
+}
+
+.card-2 {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.card-3 {
+    background-color: hsl(179, 100%, 13%);
+    
+}
