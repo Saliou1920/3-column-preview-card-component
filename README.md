@@ -26,7 +26,7 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
+### Screenshot (My Solution)
 
 ![](images/solutionDesktop.png)
 ![](images/solutionMobile.png)
